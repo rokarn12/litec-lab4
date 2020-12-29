@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1607380779 source:c:\users\karnr\desktop\litec-labtemplate\lab4\main.c
+	"C8051_SIM.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1598663515 c:\users\karnr\desktop\litec-labtemplate\lab4\c8051_sim.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<conio.h>
+	<sys/socket.h>
+	<arpa/inet.h>
+	<errno.h>
+	<time.h>
+	<sys/select.h>
+	<termios.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+
